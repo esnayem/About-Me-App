@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Nayem</string>
+    <string name="yellow_star">yellow star</string>
+
+    <string name="bio">
+        Hi, I am Md. Nayem Molla. I am 22 years old.
+        \n\nNow, I am a student of Rajshahi University at CSE department.
+        \nMy hobby is playing card, chess. About my family I have three brothers.
+            they are very helpful and kind person like me.
+        \nI have another hobby that is catching fish. I remember that one day
+        \nwhen I was catching fish I noticed that my fishing rod eat a big snack.
+        \nAt that moment I was so scared that I didn\'t talk and that experienced is so horror.
+        \n\nWe are live in a village called Baro Poyla, Saturia, Manikganj.
+        \nBeside my village there flows a river called Dhalesshori river.
+        \n\nI have some special friend who are always helpful.
+        \nI lead my life so happy.
+    </string>
+    <string name="What_is_your_nickname">What is your nickname ?</string>
+    <string name="done">DONE</string>
+</resources>
